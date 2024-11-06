@@ -13,9 +13,9 @@
 
 - STILL NO LIE DETECTOR FOR LANGUAGE MODELS: PROBING EMPIRICAL AND CONCEPTUAL ROADBLOCKS
 
-- Learning to Trust Your Feelings: Leveraging Self-awareness in LLMs for Hallucination Mitigation.  **(2024.01 | ACL Workshop 2024 | X2Robot)**
-
 - Factual Confidence of LLMs: on Reliability and Robustness of Current Estimators.  **(2024.07 | ACL 2024 | AWS AI Labs)**
+  
+- Learning to Trust Your Feelings: Leveraging Self-awareness in LLMs for Hallucination Mitigation.  **(2024.01 | ACL Workshop 2024 | X2Robot)**
 
 - The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets.  **(2023.10 | COLM 2024 | Northeastern University\MIT)**
 
