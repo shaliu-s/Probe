@@ -17,10 +17,12 @@
 
 - Factual Confidence of LLMs: on Reliability and Robustness of Current Estimators
 
-- The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets. 
+- The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets (2023.10|COLM 2024 |Northeastern University\MIT)
 
-- DISCOVERING LATENT KNOWLEDGE IN LANGUAGE MODELS WITHOUT SUPERVISION
-
-- Understanding intermediate layers using linear classifier probes 
+- DISCOVERING LATENT KNOWLEDGE IN LANGUAGE MODELS WITHOUT SUPERVISION (2022.12 |ICLR 2023 | UC Berkeley\Peking University)
 
 - Probing classifiers: Promises, shortcomings, and advances (2021.09 | Technion – Israel Institute of Technology)
+  
+- Understanding intermediate layers using linear classifier probes (2018.11 | University of Montreal)
+
+
