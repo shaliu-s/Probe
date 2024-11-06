@@ -1,4 +1,4 @@
-# Probe related papers in hallucination detection
+# Probe related papers in hallucination detection (order by date)
 
 - <font color="green">LLM Internal States Reveal Hallucination Risk Faced With a Query </font>
 
