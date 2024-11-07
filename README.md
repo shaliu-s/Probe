@@ -1,16 +1,16 @@
 # Probe related papers in hallucination detection (order by date)
 
 
-- LLM Internal States Reveal Hallucination Risk Faced With a Query
+- LLM Internal States Reveal Hallucination Risk Faced With a Query.  **(2024.07 | 🟩 | HKUST)**
 
-- The Internal State of an LLM Knows When It’s Lying
+- The Internal State of an LLM Knows When It’s Lying.  **(2023.04 | EMNLP findings 2023| Ariel University)**
 
-- Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs (2024.06 | | University of Oxford)
+- Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs.  **(2024.06 | 🟩 | University of Oxford)**
 
 
 - Factual Confidence of LLMs: on Reliability and Robustness of Current Estimators.  **(2024.07 | ACL 2024 | AWS AI Labs)**
 
-- Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?.  **(2024.04 | | Rutgers University)**
+- Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?.  **(2024.04 | 🟩 | Rutgers University)**
 
 - Unsupervised Real-Time Hallucination Detection based on the Internal States of Large Language Models.  **(2024.03 | ACL findings 2024 | Tsinghua University)**
   
